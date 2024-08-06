@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\bin\Debug\net7.0\Bll.deps.json
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\bin\Debug\net7.0\Bll.dll
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\bin\Debug\net7.0\Bll.pdb
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.dll
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.pdb
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\bin\Debug\net7.0\DAL.dll
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\bin\Debug\net7.0\DAL.pdb
+C:\Users\משתמש\Desktop\תיכנות\C#מתקדם\פרויקט\EmployeesManagerApp\EmployeesManagerApp\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
